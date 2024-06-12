@@ -22,42 +22,27 @@ Let's connect and explore the possibilities! 🚀
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+I have a deep understanding of my field, keeping up-to-date with the latest developments, and consistently improving my skills through continuous learning.
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+Listening: I pay close attention to what others say, which helps build trust.
+Clear Speaking and Writing: I make sure my ideas are easy to understand.
+Reliability: I keep my promises, which helps in forming strong connections.
+Using Social Media: I use platforms like LinkedIn and Twitter to expand my network.
 
 #### Career Plan:
 
 - Becoming a Software Developer and Also Have a plan to Start a Startup Company 
 
-#### Thoughts on Kerala's Tech Ecosystem:
-
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
 
 #### Highly Used Software Tools:
 
 - Vscode,GitHub
 
-#### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
->> check out [rahulpr-1@mulearn.md](./profiles/rahulpr-1@mulearn.md) for an exmaple
+>> check out [rahulpr-1@mulearn.md](./profiles/rahulpr-1@mulearn.md)
+>> 
+>> check out [Linkedin](www.linkedin.com/in/rahul-p-r-bhf4fgj55)
 
 ---
