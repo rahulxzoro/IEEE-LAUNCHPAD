@@ -17,8 +17,8 @@ Let's connect and explore the possibilities! 🚀
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| Portifolio  | It Showcase my skills and Qualification,projects                                           | [Hosted Link 1](https://rahul707.pythonanywhere.com/)    | [Repo Link 1](https://github.com/rahulxzoro/Portifolio.git)             |
-| **E-Commerce**  | Furniture Shop                                             | [Hosted Link 2](Not hosted)    | [Repo Link 2](https://github.com/rahulxzoro/E-commerce-Furniture-shop-.git)             |
+| Portifolio  | It Showcase my skills and Qualification,projects                                           | [Hosted Link 1](https://rahul717.pythonanywhere.com/)    | [Repo Link 1](https://github.com/rahulxzoro/Portifolio.git)             |
+| **E-Commerce**  | Furniture Shop                                             | [Hosted Link 2](http://rahuu.pythonanywhere.com/)    | [Repo Link 2](https://github.com/rahulxzoro/E-commerce-Furniture-shop-.git)             |
 
 #### Leadership and Influence:
 
